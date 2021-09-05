@@ -1744,6 +1744,7 @@ body.scrolled #backToTop
 	.about--info-item h5
 	{
 		word-wrap: break-word;
+	
 	}
 	.subscribe--form .input-box
 	{
@@ -1774,6 +1775,8 @@ body.scrolled #backToTop
 	flex-wrap: wrap;
 	ms-flex-wrap: wrap;
 }
+
+
 
 
 
